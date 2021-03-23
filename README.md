@@ -4,9 +4,9 @@ This is my part of GitHub where I share and work on most of my software developm
 
 ### Current projects
 
-* [Fyne](/fyne-io/fyne)
-* [FyneDesk](/fyne-io/fynedesk)
-* [Fyne Builder](/andydotxyz/fynebuilder)
+* [Fyne](https://github.com/fyne-io/fyne)
+* [FyneDesk](https://github.com/fyne-io/fynedesk)
+* [Fyne Builder](https://github.com/andydotxyz/fynebuilder)
 
 ### Collaboration
 
