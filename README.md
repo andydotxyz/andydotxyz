@@ -15,7 +15,7 @@ I am looking for people who are keep to collaborate on the Fyne toolkit and GUI 
 ### Sponsorship
 
 As I am an independent, unpaid, open source developer I rely on the generosity of my sponsors to pay the bills.
-If you like my work please consider [sponsoring me](/sponsors/andydotxyz).
+If you like my work please consider [sponsoring me](https://github.com/sponsors/andydotxyz).
 
 Thank you so much ❤️!
 
