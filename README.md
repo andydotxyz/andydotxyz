@@ -10,7 +10,7 @@ This is my part of GitHub where I share and work on most of my software developm
 
 ### Collaboration
 
-I am looking for people who are keep to collaborate on the Fyne toolkit and GUI capabilities for Go in general.
+I am looking for people who are keen to collaborate on the Fyne toolkit and GUI capabilities for Go in general.
 
 ### Sponsorship
 
