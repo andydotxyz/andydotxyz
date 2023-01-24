@@ -21,7 +21,7 @@ Thank you so much ❤️!
 
 ### Some statistics
 
-![](https://github-profile-trophy.vercel.app/?username=andydotxyz&column=8&theme=nord)
+![](https://github-profile-trophy.vercel.app/?username=andydotxyz&no-bg=true&no-frame=true)
 
 <!--
 **andydotxyz/andydotxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
